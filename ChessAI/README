@@ -2,5 +2,5 @@ THIS IS AN INCOMPLETE PROGRAM.
 
 Before running:
 1. Download engine.py
-2. Download pieces
-3. Change line 154 in Chess game.py to the directory of the pieces
+2. Download Images
+3. Change line 154 in Chess game.py to the directory of Images
